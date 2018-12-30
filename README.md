@@ -5,7 +5,7 @@ See [Wikipedia page](https://en.wikipedia.org/wiki/Koch_snowflake)
 
 ## P5js
 
-P5js is a Javascript library allowing easy drawing in a browser, [see](http://p5js.org)
+P5js is a Javascript library allowing easy drawing in a browser, [see here](http://p5js.org)
 
 ## Implementation
 
